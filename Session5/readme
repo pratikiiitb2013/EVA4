@@ -1,0 +1,4 @@
+- Session 5 teaches us how to build the network from scratch
+- We started with palcement of basic correct architecture
+- Then we improved metwork with 5 iterations while keeping in ming the target accuracy, #parameters and #epochs
+- We iteratively add batch norm, regularization, GAP layer, FC layer to improve the architecture iteratively
