@@ -11,10 +11,10 @@ h2><i> Assignment 4 </i></h2>
 
 **Model Details**<br>
 <ul>
-  <li><B>EPOCHS</B> - 15</li>
-  <li><B>PARAMETERS</B> - 19736</li>
-  <li><B>TEST ACCURACY</B> - 99.52</li>
-  <li><B> DROPOUT RANGE</B> - (0.05-0.1)</li>
+  <li><B>EPOCHS</B> - 20</li>
+  <li><B>PARAMETERS</B> - 19,580</li>
+  <li><B>BEST TEST ACCURACY</B> - 99.53</li>
+  <li><B> DROPOUT VALUE</B> - 0.1</li>
 </UL>
 
 **Architecture**<BR>
