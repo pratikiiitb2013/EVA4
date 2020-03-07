@@ -1,4 +1,4 @@
-h2><i> Assignment 4 </i></h2>
+<h2><i> Assignment 4 </i></h2>
 <hr>
 
 **ASSIGNMENT - Create an architecture using below conditions**<br>
