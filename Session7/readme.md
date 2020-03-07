@@ -21,3 +21,4 @@
   <li><B> DROPOUT VALUE</B> - 0.1</li>
 </UL>
 
+Authors - Siddharth Surange, Pratik Jain, Anjali Chimnani, BhKPriyanka
