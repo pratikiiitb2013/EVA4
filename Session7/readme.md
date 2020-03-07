@@ -20,5 +20,5 @@
   <li><B>BEST TEST ACCURACY</B> - 85.03%</li>
   <li><B> DROPOUT VALUE</B> - 0.1</li>
 </UL>
-
+<hr>
 Authors - Siddharth Surange, Pratik Jain, Anjali Chimnani, BhKPriyanka
