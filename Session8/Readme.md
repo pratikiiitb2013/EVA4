@@ -157,7 +157,7 @@ Test set: Average loss: 0.3919, Accuracy: 8675/10000 (86.75%)
 <hr>
 <h3><i>Misclassified samples</i></h3>
 
-![Image](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%208%20Assignment/S8_misclassified.png)
+![Image](https://github.com/pratikiiitb2013/EVA4/blob/master/Session8/EVA4S8_misclassified.png)
 
 <hr>
 Author - Siddharth Surange
