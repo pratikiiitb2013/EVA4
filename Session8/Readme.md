@@ -18,6 +18,9 @@
 </ul>
 <hr>
 <h3><i>Parameter file details</i></h3>
+
+```
+
 params  = {
   "model": "resnet18",
   "dataset": "CIFAR10",
@@ -37,6 +40,9 @@ params  = {
   "n_workers" : 2,
   "dropout" : 0.1
 }
+
+```
+
 <hr>
 <h3><i>Model logs</i></h3>
 
