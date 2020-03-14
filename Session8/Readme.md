@@ -9,10 +9,10 @@
 <hr>
 <h3><i> FINAL Model Details</i></h3>
 <ul>
-  <li><B>Best Validation Accuracy</b>-86.76</li>
-  <li><b>Epochs</b>-22</li>
+  <li><B>Best Validation Accuracy</b>-88.77</li>
+  <li><b>Epochs</b>-20</li>
   <li><b>Resnet18-parameters</b>- 11.174M</li>
-  <li><b>Regularization</b>- Dropout(0.25), Augumentation(Flip,Rotate,ColorJitter), L2 Regularizer </li>
+  <li><b>Regularization</b>- Dropout(0.10), Augumentation(Flip,Rotate,ColorJitter), L2 Regularizer </li>
   <li><b>LR Optimizer</b>- MultiStepLR</li>
 </ul>
 
@@ -148,4 +148,4 @@ Test set: Average loss: 0.0026, Accuracy: 8876/10000 (88.76%)
 ![Image](https://github.com/pratikiiitb2013/EVA4/blob/master/Session8/EVA4S8_misclassified.png)
 
 <hr>
-Author - Siddharth Surange
+Author - Pratik Jain
