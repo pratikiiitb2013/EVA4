@@ -9,6 +9,7 @@
 <hr>
 <h3><i> FINAL Model Details</i></h3>
 <ul>
+  <li>Modularize code further by including param file where we can specify Model name, dataset name, normalization values, batch size, transformations, transformation parameters, #workers, dropout value</li>
   <li><B>Best Validation Accuracy</b>-88.77</li>
   <li><b>Epochs</b>-20</li>
   <li><b>Resnet18-parameters</b>- 11.174M</li>
