@@ -341,6 +341,6 @@ Test set: Average loss: 0.0021, Accuracy: 9173/10000 (91.73%)
 ![IMGAGE](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%2010%20LR%20Finder/S10_Misclassified.png)
 
 <HR>
-Author - Siddharth Surange
+Author - Pratik Jain
 
 
