@@ -338,7 +338,7 @@ Test set: Average loss: 0.0021, Accuracy: 9173/10000 (91.73%)
 <hr>
 <h3> Misclassified images</h3>
 
-![IMGAGE](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%2010%20LR%20Finder/S10_Misclassified.png)
+![IMGAGE](https://github.com/pratikiiitb2013/EVA4/blob/master/Session10/S10_Misclassified.png)
 
 <HR>
 Author - Pratik Jain
