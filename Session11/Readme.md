@@ -32,6 +32,16 @@
   <li>Resetted the model for each epoch(otherwise the max. training accuracy was coming in last epoch)</li>
   <li>max_lr = 0.05, min_lr = max_lr/10 = 0.005</li>
 </ul>
+
+<HR>
+<h3>One cycle policy schedules for LR and momentum</h3>
+
+![IMGAGE](https://github.com/pratikiiitb2013/EVA4/blob/master/Session11/OC_LR_momentum.png)
+<ul>
+  <li>Created one cycle schedule for LR(through values found shown above) and momentum</li>
+  <li>Trained model for 24 epochs, with max_lr at 5th epoch</li>
+</ul>
+
 <HR>
 <h3> Final Model metrics</h3>
 <ul>
