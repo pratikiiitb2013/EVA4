@@ -18,28 +18,28 @@
 
 ```
 <HR>
-<h3> Cyclic LR schedule</h3>
+<h3>Cyclic LR schedule</h3>
 
 ![IMGAGE](https://github.com/pratikiiitb2013/EVA4/blob/master/Session11/cyclic_lr.png)
-
-<h3> Final Model metrics</h3>
-<ul>
-  <li>Epochs - 50</li>
-  <li>Test accuracy - 91.73</li>
-  <li>Augmentation - Albumentation (Horizontal Flip, Rotate, HueSaturationValue, Cutout)</li>
-</ul>
 
 <HR>
-<h3> Cyclic LR schedule</h3>
+<h3>LR range finder - accuracy vs LR curve</h3>
 
-![IMGAGE](https://github.com/pratikiiitb2013/EVA4/blob/master/Session11/cyclic_lr.png)
-
+![IMGAGE](https://github.com/pratikiiitb2013/EVA4/blob/master/Session11/LR_range_finder.png)
+<ul>
+  <li>Trained model for 20 Epochs with linearly increasing LR between 1e-4 and 1</li>
+  <li>Captures training accuracy at each LR value and plotted the above curve</li>
+  <li>Resetted the model for each epoch(otherwise the max. training accuracy was coming in last epoch)</li>
+  <li>max_lr = 0.05, min_lr = max_lr/10 = 0.005</li>
+</ul>
+<HR>
 <h3> Final Model metrics</h3>
 <ul>
   <li>Epochs - 50</li>
   <li>Test accuracy - 91.73</li>
   <li>Augmentation - Albumentation (Horizontal Flip, Rotate, HueSaturationValue, Cutout)</li>
 </ul>
+
 
 
 <hr>
