@@ -1,20 +1,20 @@
-<h2><b><i> S10 Assignment</i></b></h2>
+<h2><b><i> S11 Assignment</i></b></h2>
 <hr>
 <h3>Things to accomplish</h3>
 
 ```
-1. Pick your last code
-2. Make sure  to Add CutOut to your code. It should come from your transformations (albumentations)
-   Use this repo: https://github.com/davidtvs/pytorch-lr-finder (Links to an external site.) 
-3. Move LR Finder code to your modules. Implement LR Finder (for SGD, not for ADAM)
-4. Implement ReduceLROnPlatea: https://pytorch.org/docs/stable/optim.html#torch.optim.lr_scheduler.ReduceLROnPlateau (Links to an      external site.)
-5. Find best LR to train your model
-6. Use SDG with Momentum
-7. Train for 50 Epochs. 
-8. Show Training and Test Accuracy curves
-9. Target 88% Accuracy.
-10 Run GradCAM on the any 25 misclassified images. Make sure you mention what is the prediction and what was the ground truth label.
-11 Submit
+1. Write code to find cyclic LR schedule and plot
+2. Write code for custom resnet model(Details of model architecture on canvas page)
+3. Uses One Cycle Policy such that:
+   a. Total Epochs = 24
+   b. Max at Epoch = 5
+   c. LRMIN = FIND
+   d. LRMAX = FIND
+   e. NO Annihilation
+4. Uses this transform -RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
+5. Batch size = 512
+6. Target Accuracy: 90%
+7. Make code more modular
 
 ```
 <HR>
