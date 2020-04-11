@@ -29,6 +29,18 @@
   <li>Augmentation - Albumentation (Horizontal Flip, Rotate, HueSaturationValue, Cutout)</li>
 </ul>
 
+<HR>
+<h3> Cyclic LR schedule</h3>
+
+![IMGAGE](https://github.com/pratikiiitb2013/EVA4/blob/master/Session11/cyclic_lr.png)
+
+<h3> Final Model metrics</h3>
+<ul>
+  <li>Epochs - 50</li>
+  <li>Test accuracy - 91.73</li>
+  <li>Augmentation - Albumentation (Horizontal Flip, Rotate, HueSaturationValue, Cutout)</li>
+</ul>
+
 
 <hr>
 
