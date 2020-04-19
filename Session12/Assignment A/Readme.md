@@ -9,6 +9,17 @@ Assignment B:
 2) Train ResNet18 on this dataset (70/30 split) for 50 Epochs. Target 50%+ Validation Accuracy. 
 3) Submit Results. Of course, you are using your own package for everything. You can look at this (Links to an external site.) for  reference. 
 
+<HR>
+<h3>One cycle policy schedules for LR and momentum</h3>
+
+![IMGAGE](https://github.com/pratikiiitb2013/EVA4/blob/master/Session11/OC_LR_momentum.png)
+<ul>
+  <li>Created one cycle schedule for LR(through values found shown above) and momentum</li>
+  <li>Trained model for 24 epochs, with max_lr at 5th epoch</li>
+</ul>
+
+<HR>
+
 ```
 <h3><i> LOGS </I></h3>
 
