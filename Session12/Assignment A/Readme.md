@@ -15,7 +15,7 @@ Assignment B:
 
 ![IMGAGE](https://github.com/pratikiiitb2013/EVA4/blob/master/Session12/Assignment%20A/assign_12_OC_lr_momentum_annealing.png)
 <ul>
-  <li>Created one cycle schedule for LR(through values found shown above) and momentum</li>
+  <li>Created one cycle schedule for LR and momentum which can be seen in above image</li>
   <li>Trained model for 50 epochs, with max_lr at 10th epoch, min_lr at 40th epoch and annealing in the last 10 epochs</li>
 </ul>
 
