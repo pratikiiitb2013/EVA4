@@ -100,4 +100,4 @@ Last few epochs snapshot
 
 [![IMAGE ALT TEXT](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%2013%20YOLOV3/Assignement%20B/Snap.jpg)](https://youtu.be/9AAcoXx8w38 "Groot Character Detection using YOLOV3")
 
-Author - Siddharth Surange
+Author - Siddharth Surange, Pratik Jain
