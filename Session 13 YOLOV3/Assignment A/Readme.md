@@ -14,6 +14,6 @@ OpenCV Yolo:
 
 <b>Prediction</b>
 
-![img](https://github.com/SID-SURANGE/EVA-4.0/blob/master/Session%2013%20YOLOV3/Assignment%20A/EVA%20S13A.png)
+![img](https://github.com/pratikiiitb2013/EVA4/blob/master/Session%2013%20YOLOV3/Assignment%20A/YOLOv3OpenCV_inference.png)
 
 Author - Siddharth Surange, Pratik Jain
