@@ -8,11 +8,12 @@
 </p>
 <h6>Contents</h6>
 <ul>
-  <li>Foregound images - (Folder name - fgscaled)</li>
-  <li>Background images - (bf scaled)</li>
-  <li>Foreground-Background - (bg-fg-images)</li>
-  <li>Fg-bg masks - (bg-fg_images_masks)</li>
-  <li>Depth masks - (Depth_output)</li>
+  <li>Foregound images - (Folder name - fg_images)</li>
+  <li>Background images - (bg_images)</li>
+  <li>Foreground-Background - (bg_fg_images.zip)</li>
+  <li>Fg masks - (fg_images_masks)</li>
+  <li>Bg-fg masks - (bg_fg_images_masks.zip)</li>
+  <li>Depth masks - (depth_output)</li>
 </ul>
  
 <hr>
